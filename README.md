@@ -33,4 +33,7 @@ Includes stylish glassmorphism UI, smooth animations, and a locked favicon icon 
 4. Import or manually create a `users` table with columns:
    - `id`, `username`, `email`, `password`, `reset_token`
 5. Configure your database credentials in `db.php`
+## 🖼️ Screenshot
+
+![Login Screen](screenshot.png)
 
