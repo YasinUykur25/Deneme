@@ -34,12 +34,3 @@ Includes stylish glassmorphism UI, smooth animations, and a locked favicon icon 
    - `id`, `username`, `email`, `password`, `reset_token`
 5. Configure your database credentials in `db.php`
 
-## 📩 Email Configuration (Gmail)
-
-- Make sure you have:
-  - Enabled **2-Step Verification** in Gmail
-  - Created an **App Password**
-- Inside `sifremi_unuttum.php`:
-```php
-$mail->Username = 'youremail@gmail.com';
-$mail->Password = 'your_app_password';
